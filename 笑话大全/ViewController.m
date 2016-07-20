@@ -30,6 +30,7 @@
 {
     [super viewDidLoad];
     
+    self.view.backgroundColor=[UIColor redColor];
     [self initlized];
     [self setUI];
 }
